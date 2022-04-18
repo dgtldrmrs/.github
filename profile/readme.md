@@ -1,5 +1,8 @@
-# Hello There
+# CS42
 
-Umm, add something here when you see it!
+<p>💻 Mastering Computer Science one project at a time.</p>
+<hr>
 
-Thats it, byeeeeeee
+## Repos:
+### Implementations:</a>
+<p>Implementations of programs in various languages.</p>
