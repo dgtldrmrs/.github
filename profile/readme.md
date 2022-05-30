@@ -1,6 +1,7 @@
 # CS42
 
-<img src="https://user-images.githubusercontent.com/64768475/170908488-416ec65f-1f5a-4c2d-ae6f-03bafe44e0f3.png" alt="CS42"/>
+<a title="© Raimond Spekking" href="https://commons.wikimedia.org/wiki/File:Monitor_Commodore_CBM_3016_with_BASIC_program-0309.jpg"><img src="https://user-images.githubusercontent.com/64768475/170908488-416ec65f-1f5a-4c2d-ae6f-03bafe44e0f3.png" alt="CS42"/>
+
 
 ## 💻 Mastering Computer Science one project at a time.</p>
 
@@ -14,7 +15,4 @@
 ### Implementations</a>
 <p>Implementations of programs in various languages.</p>
 
-
-
-<sup><sub>Image from: https://www.csecoalition.org/ licensed under: https://creativecommons.org/licenses/by-sa/4.0/
-  Modified image provided as <a href="https://creativecommons.org/licenses/by-sa/4.0/">(CC BY-SA 4.0)</a></sub></sup>
+<sub><sup>Feel free to use the image under the following license <a href="https://creativecommons.org/licenses/by-sa/4.0/">(CC BY-SA 4.0)</a></sub></sup>
