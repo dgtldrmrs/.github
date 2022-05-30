@@ -16,3 +16,5 @@
 
 
 
+<sup><sub>Image from: https://www.csecoalition.org/ licensed under: https://creativecommons.org/licenses/by-sa/4.0/
+  Modified image provided as <a href="https://creativecommons.org/licenses/by-sa/4.0/">(CC BY-SA 4.0)</a></sub></sup>
