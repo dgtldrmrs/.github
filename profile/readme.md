@@ -9,7 +9,7 @@
 [![Discord Shield](https://discordapp.com/api/guilds/912686692891246613/widget.png?style=shield)](https://discord.gg/d6Bn6x6gPw) ![Profile Views](https://komarev.com/ghpvc/?username=CS-42&color=blue)
 
 
-Website (⚠️WIP): https://cs-42.github.io/CS42-Homepage/ 
+Website (⚠️WIP): https://dgtldrmrs.github.io/
 
 ## Repos
 ### Implementations</a>
